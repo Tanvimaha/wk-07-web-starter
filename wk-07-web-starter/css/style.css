@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Hi+Melody|Oswald');
+
+body {
+  background-color: #222;
+  background-image: url("https://www.publicdomainpictures.net/pictures/190000/nahled/black-background-1468370534d5s.jpg");
+  font-family: 'Courgette', cursive;
+}
+
+.jumbotron{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6udEDykK-Gwcast2xqVBJP-EnmcYxtzphP1y55UVBEe8_RxY7");
+}
+.ui-widget > * {
+  font-family: 'Oswald', sans-serif;s !important
+}
+
+
+h1 {
+  color: #FFF;
+}
+
+h1, h2, .navbar-brand {
+  font-family: Monoton, Georgia, cursive;
+}
+
+.content-box {
+  background-color: #E8E8E8;
+}
+
+.hero-top {
+  background: url("../images/bmw-engine-background.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.dark-transparency {
+  background-color: rgba(0,0,0,.55);
+}
+
+.hero-top .lead {
+  color: #CCC;
+}
